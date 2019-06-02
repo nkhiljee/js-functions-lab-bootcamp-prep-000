@@ -14,5 +14,8 @@ function happyHolidayTo(holiday, name) {
 }
 
 function holidayCountdown(holiday, days) {
+  var holiday = temp
+  var days = holiday
+  var temp = days
   return "It's $(days) days until $(holiday)!"
 }
